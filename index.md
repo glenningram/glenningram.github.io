@@ -22,6 +22,6 @@ This project intended to create a map where the story the data communicated was 
 
 ### Seventy Years of Canadian Wildfire
 
-![Canada](glenningram.github.io/assets/img/Ingram_CanadaWildfire.jpg)
+![Canada](https://glenningram.github.io/assets/img/Ingram_CanadaWildfire.jpg)
 
  <hr> 
