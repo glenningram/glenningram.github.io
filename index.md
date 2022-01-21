@@ -14,10 +14,14 @@ Design is an essential visual component of communication. Better design allows f
  <hr> 
 
 
-## Seventy Years of Canadian Wildfire
+## Mapping Canadian Wildfire Frequency
 
 This project, commissioned by Eric Kennedy of York University, maps the entirety of the Candian National Fire Database fire point data. The map uses a hexagonal pattern to illustrate fire frequency for the entire country, spanning from 1950 to 2020. Each hexagon, representing 500sq kilometers, counts the number of fires that fell within. The map illustrates how topography, region, and climate are drivers of fire behavior.
 
 This project intended to create a map where the story the data communicated was immediately evident. In this case, fire frequency. The map serves as both a learning tool and art. 
+
+### Seventy Years of Canadian Wildfire
+
+![Branching](glenningram.github.io/assets/img/Ingram_CanadaWildfire.jpg )
 
  <hr> 
