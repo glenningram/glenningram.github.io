@@ -9,7 +9,7 @@ Design is an essential visual component of communication. Better design allows f
 
 ### New York City 100-Year Floodplain
 
-![https://glenningram.github.io/assets/img/Ingram_NYCFloodMap.jpg](https://glenningram.github.io/assets/img/Ingram_NYCFloodMap.jpg)
+![glenningram.github.io/assets/img/Ingram_NYCFloodMap.jpg](https://glenningram.github.io/assets/img/Ingram_NYCFloodMap.jpg)
 
  <hr> 
 
