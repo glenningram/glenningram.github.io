@@ -1,4 +1,4 @@
-### Cartography | GIS | Urban & Environmental Planning |
+### Cartography | GIS | Urban & Environmental Planning
  <hr> 
 
 ## Mapping Sea Level Rise and Coastal Flooding
