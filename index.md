@@ -1,4 +1,4 @@
-### Cartography | GIS | Urban Planning | 2022
+### Cartography | GIS | Urban Planning | Enviornmental Planning
  <hr> 
 
 ## Mapping Sea Level Rise and Coastal Flooding
@@ -9,7 +9,7 @@ Design is an essential visual component of communication. Better design allows f
 
 ### New York City 100-Year Floodplain
 
-![NYC](https://glenningram.github.io/assets/img/Ingram_NYCFloodMap.jpg)
+![https://glenningram.github.io/assets/img/Ingram_NYCFloodMap.jpg](https://glenningram.github.io/assets/img/Ingram_NYCFloodMap.jpg)
 
  <hr> 
 
