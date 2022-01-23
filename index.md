@@ -18,7 +18,7 @@ This map won the 2021 Arizona Geographic Council Maps & Poster competition.
 
 ## Canadian Wildfire Frequency
 
-This project, commissioned by Eric Kennedy of York University, maps the entirety of the Candian National Fire Database fire point data. The map uses a hexagonal pattern to illustrate fire frequency for Canada, spanning from 1950 to 2020. Each hexagon, representing 500sq kilometers, counts the number of fires that fell within the shape. The map illustrates how topography, region, and climate are drivers of fire behavior.
+This map, commissioned by Eric Kennedy of York University, utilizes the entirety of the Candian National Fire Database fire point data. The map uses a hexagonal pattern to illustrate fire frequency for Canada, spanning from 1950 to 2020. Each hexagon, representing 500sq kilometers, counts the number of fires that fell within the shape. The map illustrates how topography, region, and climate are drivers of fire behavior.
 
 The map shaded relief was created in Blender 3D, and hexagons in ArcGIS Pro, and design in Adobe Illustrator. Data from Candian National Fire Database.
 
@@ -31,10 +31,15 @@ The map shaded relief was created in Blender 3D, and hexagons in ArcGIS Pro, and
  
 ## Museum Fire and Flood - Mapping Complex Landscapes
 
+This environmental modeling project used AZ NAIP LiDAR Data to create a three-dimensional mesh and model within Blender. The Flagstaff Museum fire and flood were ideal for utilizing 3D mapping due to the two related events being driven by elevation and topography. 
+
+The workflow started with .laz files,  converted to them .las format, created a raster, then normalized pixel values for use within Blender. Within Blender, the pixel values were used to create a 3D mesh and a hillshade, using texture and displacement tools. 
 
 ### Museum Fire and Flood, 3D Map
 
 ![MuseumFire3D](https://glenningram.github.io/assets/img/3DFlagstaffMap.jpg)
+
+Museum Fire and Flood map elements were combined into a single poster.
 
 ### Museum Fire and Flood, Poster Map
 
