@@ -29,9 +29,7 @@ The map shaded relief was created in Blender 3D, and hexagons in ArcGIS Pro, and
  <hr> 
  
  
-## Arizona Museum Fire and Flood
-### Mapping Complex Landscapes
-
+## Museum Fire and Flood - Mapping Complex Landscapes
 
 
 ### Museum Fire and Flood, 3D Map
