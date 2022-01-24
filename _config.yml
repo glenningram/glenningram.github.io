@@ -4,10 +4,11 @@ description: Cartography, GIS, & Planning Portfolio
 show_downloads: False
 google_analytics:
 theme: jekyll-theme-minimal
+
 sidebar:
   - name: Twitter
-    icon: fa-solid fa-user-graduate
+    icon: 
     link: https://scholar.google.com/citations?user=zR6afi8AAAAJ
   - name: LinkedIn
-    icon: fa-brands fa-github
+    icon: 
     link: https://github.com/BDHU
