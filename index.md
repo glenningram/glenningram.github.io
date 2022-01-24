@@ -1,5 +1,5 @@
-### Cartography | GIS | Urban & Environmental Planning | [About](./another-page.md)
- <hr> 
+### Portfolio | [About](./about.md) | Contact 
+<hr> 
 
 ## Sea Level Rise and Coastal Flooding
 
