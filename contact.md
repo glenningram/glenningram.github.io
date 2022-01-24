@@ -10,7 +10,7 @@ layout: default
 
 Please reach out over email for questions, additional work samples, or cartography commission work.
 
-[Email](gi.ingram001@gmail.com)
+[Email](mailto:gi.ingram001@gmail.com)
 
 [Twitter](https://twitter.com/_glenningram)
 
