@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<title>
+<title>Glenn Ingram Cartography</title>
 
 ### Portfolio | [About](./about.md) | [Contact](./contact.md)
 <hr> 
