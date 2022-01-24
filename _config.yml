@@ -1,6 +1,6 @@
 title: Glenn Ingram
 logo: /assets/img/logo.png
 description: Cartography, GIS, & Planning Portfolio
-show_downloads: True
+show_downloads: False
 google_analytics:
 theme: jekyll-theme-minimal
