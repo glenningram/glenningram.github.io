@@ -39,10 +39,24 @@ The workflow started with .laz files,  converted to them .las format, created a 
 
 ![MuseumFire3D](https://glenningram.github.io/assets/img/3DFlagstaffMap.jpg)
 
-Museum Fire and Flood map elements were combined into a single poster.
+A collection of map elements were combined into a single poster.
 
 ### Museum Fire and Flood, Poster Map
 
 ![MuseumFirePoster](https://glenningram.github.io/assets/img/MuseumFloodAndFire.jpg)
+
+ <hr> 
+ 
+ ## Mapping Historic Natural Disasters
+
+Mapping Historic Natural Disasters
+
+### Tohoku Earthquake
+
+![Tohoku](https://glenningram.github.io/assets/img/TohokuEarthquake.jpg)
+
+### 1988 Yelllowstone Fires
+
+![YellowstoneFires](https://glenningram.github.io/assets/img/1988YellowstoneFires.jpg)
 
  <hr> 
