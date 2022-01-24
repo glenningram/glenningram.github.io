@@ -3,7 +3,7 @@ layout: default
 ---
 ### Portfolio | [About](./about.md) | [Contact](./contact.md)
 <hr> 
-### Cartography | GIS | Urban & Enviornmental Planning
+#### Cartography, GIS, Urban & Enviornmental Planning Portfolio
 
 ## Sea Level Rise and Coastal Flooding
 
