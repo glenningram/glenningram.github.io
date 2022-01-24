@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-### Portfolio | [About](./about.md) | Contact
+### [Portfolio](./index.md) | About | Contact
  <hr> 
  
 ## About
