@@ -11,9 +11,7 @@ layout: default
 Please reach out over email for questions, additional work samples, or cartography commission work.
 
 Email
-
 Twitter
-
 LinkedIn
 
 [Main Page](./)
