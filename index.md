@@ -50,12 +50,12 @@ A collection of map elements were combined into a single poster.
 
 ## Mapping Historic Natural Disasters
 
-Mapping Historic Natural Disasters
+These maps captured historical natural disasters by exploring the intersection of environmental planning and cartography.
 
 ![Tohoku](https://glenningram.github.io/assets/img/TohokuEarthquake.jpg)
 ### Tohoku Earthquake
 
 ![YellowstoneFires](https://glenningram.github.io/assets/img/1988YellowstoneFires.jpg)
-### 1988 Yelllowstone Fires
+### 1988 Yellowstone Fires
 
  <hr> 
