@@ -51,10 +51,14 @@ A collection of map elements were combined into a single poster.
 
 ## Mapping Historic Natural Disasters
 
-These maps captured historical natural disasters by exploring the intersection of environmental planning and cartography.
+These maps captured historical natural disasters by exploring the intersection of environmental planning and cartography. Maps were completed as part of CAPLA coursework, using an ArcGIS Pro to Adobe Illustrator workflow.
+
+The first, a Tohoku Earthquake map, looks a the extent of the 2011 earthquake in Japan and cities at risk.
 
 ![Tohoku](https://glenningram.github.io/assets/img/TohokuEarthquake.jpg)
 #### Tohoku Earthquake, 2021
+
+The second map looks at the extent of the 1988 Yellowstone Fires in Wyoming. The 88' Yellowstone Fires are significant in their impact on fire science and ecology and their influence on the public's perception of wildfires.
 
 ![YellowstoneFires](https://glenningram.github.io/assets/img/1988YellowstoneFires.jpg)
 #### 1988 Yellowstone Fires, 2021
