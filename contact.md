@@ -8,14 +8,12 @@ layout: default
  
 #### Contact Page
 
-Please reach out over email for questions, additional work samples, or cartography commission work.
+Please reach out over [Email](mailto:gi.ingram001@gmail.com) for questions, additional work samples, or cartography commission work.
 
-[Email](mailto:gi.ingram001@gmail.com)
 
-[Twitter](https://twitter.com/_glenningram)
-
-[LinkedIn](https://www.linkedin.com/in/glenn-ingram/)
-
+<br>
+<br>
+<br>
 <br>
 <br>
 
