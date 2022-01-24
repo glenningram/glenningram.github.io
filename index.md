@@ -1,4 +1,4 @@
-### Cartography | GIS | Urban & Environmental Planning | [About](.glenningram.github.io/another-page.md)
+### Cartography | GIS | Urban & Environmental Planning | [About](./another-page.md)
  <hr> 
 
 ## Sea Level Rise and Coastal Flooding
