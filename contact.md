@@ -10,10 +10,10 @@ layout: default
 
 Please reach out over email for questions, additional work samples, or cartography commission work.
 
-Email
+[Email](gi.ingram001@gmail.com)
 
-Twitter
+[Twitter](https://twitter.com/_glenningram)
 
-LinkedIn
+[LinkedIn](https://www.linkedin.com/in/glenn-ingram/)
 
 [Main Page](./)
