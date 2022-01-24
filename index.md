@@ -17,7 +17,7 @@ This map won the 2021 Arizona Geographic Council Maps & Poster competition.
 
 
 ![NYC](https://glenningram.github.io/assets/img/Ingram_NYCFloodMap.jpg)
-### New York City 100-Year Floodplain
+#### New York City 100-Year Floodplain
 
  <hr> 
 
@@ -29,24 +29,24 @@ This map, commissioned by Eric Kennedy of York University, utilizes the entirety
 The map shaded relief was created in Blender 3D, and hexagons in ArcGIS Pro, and design in Adobe Illustrator. Data from Candian National Fire Database.
 
 ![Canada](https://glenningram.github.io/assets/img/Ingram_CanadaWildfire.jpg)
-### Seventy Years of Canadian Wildfire
+#### Seventy Years of Canadian Wildfire
 
  <hr> 
  
  
-## Museum Fire and Flood - Mapping Complex Landscapes
+## Museum Fire and Flood Mapping and Modeling
 
 This environmental modeling project used AZ NAIP LiDAR Data to create a three-dimensional mesh and model within Blender. The Flagstaff Museum fire and flood were ideal for utilizing 3D mapping due to the two related events being driven by elevation and topography. 
 
-The workflow started with .laz files,  converted to them .las format, created a raster, then normalized pixel values for use within Blender. Within Blender, the pixel values were used to create a 3D mesh and a hillshade, using texture and displacement tools. 
+The workflow started with .laz files,  converted them to .las format, created a raster, then normalized pixel values for use within Blender. Within Blender, the pixel values were used to create a 3D mesh and a hillshade, using texture and displacement tools. 
 
 ![MuseumFire3D](https://glenningram.github.io/assets/img/3DFlagstaffMap.jpg)
-### Museum Fire and Flood, 3D Map
+#### Museum Fire and Flood, 3D Map
 
 A collection of map elements were combined into a single poster.
 
 ![MuseumFirePoster](https://glenningram.github.io/assets/img/MuseumFloodAndFire.jpg)
-### Museum Fire and Flood, Poster Map
+#### Museum Fire and Flood, Poster Map
  <hr> 
 
 ## Mapping Historic Natural Disasters
@@ -54,9 +54,11 @@ A collection of map elements were combined into a single poster.
 These maps captured historical natural disasters by exploring the intersection of environmental planning and cartography.
 
 ![Tohoku](https://glenningram.github.io/assets/img/TohokuEarthquake.jpg)
-### Tohoku Earthquake
+#### Tohoku Earthquake
 
 ![YellowstoneFires](https://glenningram.github.io/assets/img/1988YellowstoneFires.jpg)
-### 1988 Yellowstone Fires
+#### 1988 Yellowstone Fires
 
  <hr> 
+ ### Portfolio | [About](./about.md) | [Contact](./contact.md)
+<hr> 
