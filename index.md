@@ -47,7 +47,7 @@ A collection of map elements were combined into a single poster.
 
  <hr> 
  
- ## Mapping Historic Natural Disasters
+## Mapping Historic Natural Disasters
 
 Mapping Historic Natural Disasters
 
