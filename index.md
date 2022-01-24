@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-### Portfolio | [About](./about.md) | Contact 
+### Portfolio | [About](./about.md) | [Contact](./contact.md)
 <hr> 
 
 ## Sea Level Rise and Coastal Flooding
