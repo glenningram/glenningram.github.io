@@ -16,4 +16,7 @@ Please reach out over email for questions, additional work samples, or cartograp
 
 [LinkedIn](https://www.linkedin.com/in/glenn-ingram/)
 
+ <hr> 
+
+
 [Main Page](./)
