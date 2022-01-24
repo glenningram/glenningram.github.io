@@ -12,31 +12,6 @@
     <![endif]-->
     {% include head-custom.html %}
   </head>
-body
-  background-image linear-gradient(top, sky, 80% sky, sky*0.7)
-  background-attachment fixed
-
-///////////////////////////////////////////////////////////////
-// from https://github.com/visionmedia/nib/blob/master/lib/nib/gradients.styl
-
-linear-gradient(start, stops...)
-  error('color stops required') unless length(stops)
-  prop = current-property[0]
-  val = current-property[1]
-  stops = normalize-stops(stops)
-
-  // webkit
-  end = grad-point(opposite-position(start))
-  webkit = s('-webkit-gradient(linear, %s, %s, %s)', grad-point(start), end, join-stops(stops, webkit-stop))
-  add-property(prop, replace(val, '__CALL__', webkit))
-
-  // moz
-  stops = join-stops(stops, moz-stop)
-  moz = s('-moz-linear-gradient(%s, %s)', start, stops)
-  add-property(prop, replace(val, '__CALL__', moz))
-
-  // literal
-  s('linear-gradient(%s, %s)', start, stops)
     <div class="wrapper">
       <header>
         <h2 href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</h2>
