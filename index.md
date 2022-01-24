@@ -3,7 +3,8 @@ layout: default
 ---
 <title>Glenn Ingram Cartography</title>
 
-### Portfolio | [About](./about.md) | [Contact](./contact.md)
+position: fixed; ### Portfolio | [About](./about.md) | [Contact](./contact.md)
+
 <hr> 
 #### Cartography, GIS, Urban & Enviornmental Planning Portfolio
 
