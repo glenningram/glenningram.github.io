@@ -59,6 +59,6 @@ These maps captured historical natural disasters by exploring the intersection o
 ![YellowstoneFires](https://glenningram.github.io/assets/img/1988YellowstoneFires.jpg)
 #### 1988 Yellowstone Fires
 
- <hr> 
- ### Portfolio | [About](./about.md) | [Contact](./contact.md)
+<hr> 
+### Portfolio | [About](./about.md) | [Contact](./contact.md)
 <hr> 
