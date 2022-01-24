@@ -17,7 +17,7 @@ This map won the 2021 Arizona Geographic Council Maps & Poster competition.
 
 
 ![NYC](https://glenningram.github.io/assets/img/Ingram_NYCFloodMap.jpg)
-#### New York City 100-Year Floodplain
+#### New York City 100-Year Floodplain, 2021
 
  <hr> 
 
@@ -29,7 +29,7 @@ This map, commissioned by Eric Kennedy of York University, utilizes the entirety
 The map shaded relief was created in Blender 3D, and hexagons in ArcGIS Pro, and design in Adobe Illustrator. Data from Candian National Fire Database.
 
 ![Canada](https://glenningram.github.io/assets/img/Ingram_CanadaWildfire.jpg)
-#### Seventy Years of Canadian Wildfire
+#### Seventy Years of Canadian Wildfire, 2022
 
  <hr> 
  
@@ -41,12 +41,12 @@ This environmental modeling project used AZ NAIP LiDAR Data to create a three-di
 The workflow started with .laz files,  converted them to .las format, created a raster, then normalized pixel values for use within Blender. Within Blender, the pixel values were used to create a 3D mesh and a hillshade, using texture and displacement tools. 
 
 ![MuseumFire3D](https://glenningram.github.io/assets/img/3DFlagstaffMap.jpg)
-#### Museum Fire and Flood, 3D Map
+#### Museum Fire and Flood, 3D Map, 2021
 
 A collection of map elements were combined into a single poster.
 
 ![MuseumFirePoster](https://glenningram.github.io/assets/img/MuseumFloodAndFire.jpg)
-#### Museum Fire and Flood, Poster Map
+#### Museum Fire and Flood, Poster Map, 2021
  <hr> 
 
 ## Mapping Historic Natural Disasters
@@ -54,10 +54,10 @@ A collection of map elements were combined into a single poster.
 These maps captured historical natural disasters by exploring the intersection of environmental planning and cartography.
 
 ![Tohoku](https://glenningram.github.io/assets/img/TohokuEarthquake.jpg)
-#### Tohoku Earthquake
+#### Tohoku Earthquake, 2021
 
 ![YellowstoneFires](https://glenningram.github.io/assets/img/1988YellowstoneFires.jpg)
-#### 1988 Yellowstone Fires
+#### 1988 Yellowstone Fires, 2021
 
 <hr> 
 ### Portfolio | [About](./about.md) | [Contact](./contact.md)
