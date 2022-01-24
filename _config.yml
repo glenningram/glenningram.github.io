@@ -3,7 +3,7 @@ logo: /assets/img/logo.jpg
 description: Cartography, GIS, & Planning Portfolio
 sidebar:
   - name: Email
-    icon: /favicon.ico 
+    icon: https://glenningram.github.io/favicon.ico
     link: mailto:gi.ingram001@gmail.com
   - name: Twitter
     icon: /assets/img/twitter.png
