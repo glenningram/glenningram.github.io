@@ -1,10 +1,6 @@
 title: Glenn Ingram
 logo: /assets/img/logo.jpg
 description: Cartography, GIS, & Planning Portfolio
-show_downloads: False
-google_analytics:
-theme: jekyll-theme-minimal
-
 sidebar:
   - name: Twitter
     icon: 
@@ -12,3 +8,6 @@ sidebar:
   - name: LinkedIn
     icon: 
     link: https://github.com/BDHU
+theme: jekyll-theme-minimal
+
+
