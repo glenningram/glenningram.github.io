@@ -19,8 +19,6 @@ Please reach out over email for questions, additional work samples, or cartograp
 <br>
 <br>
 
-
- <hr> 
-
+<hr> 
 
 [Main Page](./)
