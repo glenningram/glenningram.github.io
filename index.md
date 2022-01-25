@@ -65,5 +65,5 @@ The second map looks at the extent of the 1988 Yellowstone Fires in Wyoming. The
 #### 1988 Yellowstone Fires, 2021
 
 <hr> 
-### Portfolio | [About](./about.md) | [Contact](./contact.md)
+### [Next Page](./pagetwo.html)
 <hr> 
