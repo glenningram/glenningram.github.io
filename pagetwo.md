@@ -23,7 +23,9 @@ A second map set was created of Bandy Ranch, a 3,600 acre working cattle ranch b
 
 ## Arizona Trail Map
 
-![Arizona](https://glenningram.github.io/assets/img/)
+Arizona Trail map created using an oblique perspective hillshade.
+
+![Arizona](https://glenningram.github.io/assets/img/ingram_AZtrail.jpg)
 #### Arizona Trail Map, 2021
 
 ## Adventure Cycle Association
