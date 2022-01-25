@@ -7,7 +7,7 @@ layout: default
 ### Portfolio | [About](./about.md) | [Contact](./contact.md)
 
 <hr> 
-#### Cartography, GIS, Urban & Enviornmental Planning Portfolio
+#### Cartography, GIS, Urban & Enviornmental Planning Portfolio [Page Two]
 
 ## Sea Level Rise and Coastal Flooding
 
@@ -24,5 +24,5 @@ This map won the 2021 Arizona Geographic Council Maps & Poster competition.
 <hr> 
 
 
-### [Previous Page](./index.md)
+### [<Previous Page](./index.md)
 <hr>
