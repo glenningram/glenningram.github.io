@@ -29,7 +29,7 @@ A second map set was created of Bandy Ranch, a 3,600 acre working cattle ranch b
 ## Adventure Cycle Association
 
 ![Jordan](https://glenningram.github.io/assets/img/)
-#### Jordan Cycle Route Map, 2021
+#### Jordan Cycle Route Map, 2020
 
 <hr> 
 
