@@ -9,20 +9,28 @@ layout: default
 <hr> 
 #### Cartography, GIS, Urban & Enviornmental Planning Portfolio [Page Two]
 
-## Sea Level Rise and Coastal Flooding
+## Bandy Ranch and Lubrecht Forest
 
-This project, undertaken at the University of Arizona School of Landscape Architecture and Planning, identified and mapped communities at risk of sea-level rise flooding. Cities at risk showed significant current flood hazards and a high population density. This map specifically looked at density in New York City and the FEMA 100-year floodplain. Mapping both of these pieces of data illustrated risk based on flood zones and high population. 
+![Bandy Ranch](https://glenningram.github.io/assets/img/)
+#### Bandy Ranch Map, 2019
 
-Better map design allows for more precise communication of data and greater accessibility. The intent of this project was to use bold color gradients and simple, clear labeling to convey the map theme - a correlation between population density and flooding. The hope being this map would be easy to understand, regardless of background or previous experience with flooding.
+![Bandy Ranch](https://glenningram.github.io/assets/img/)
+#### Lubrecht Forest Map, 2020
 
-This map won the 2021 Arizona Geographic Council Maps & Poster competition.
+## Arizona Trail Map
+
+![Bandy](https://glenningram.github.io/assets/img/)
+#### Arizona Trail Map, 2021
+
+![Lubrecht](https://glenningram.github.io/assets/img/)
+#### Lubrecht Forest Map, 2020
 
 
-![NYC](https://glenningram.github.io/assets/img/Ingram_NYCFloodMap.jpg)
-#### New York City 100-Year Floodplain, 2021
+## Adventure Cycle Association
+
+![Jordan](https://glenningram.github.io/assets/img/)
+#### Jordan Cycle Route Map, 2021
 
 <hr> 
-
-
 ### [<Previous Page](./index.md)
 <hr>
