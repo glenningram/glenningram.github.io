@@ -3,10 +3,9 @@ layout: default
 ---
 <title>Glenn Ingram Cartography</title>
 
-### Portfolio | [About](./about.md) | [Contact](./contact.md)
+#### Cartography, GIS, Urban & Enviornmental Planning Portfolio
 
 <hr> 
-#### Cartography, GIS, Urban & Enviornmental Planning Portfolio
 
 ## Sea Level Rise and Coastal Flooding
 
