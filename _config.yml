@@ -12,7 +12,7 @@ sidebar:
     icon: fa fa-twitter
     link: https://twitter.com/_glenningram
   - name:  LinkedIn
-    icon: fa fa-linkedin
+    icon: fa fa-linkedin-square
     link: https://www.linkedin.com/in/glenn-ingram/
 theme: jekyll-theme-minimal
 
