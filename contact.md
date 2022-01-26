@@ -2,11 +2,10 @@
 layout: default
 ---
 <title>Glenn Ingram Cartography</title>
-
-### [Portfolio](./index.md) | [About](./about.md) | Contact
- <hr> 
  
 #### Contact
+
+ <hr> 
 
 Please reach out over [email](mailto:gi.ingram001@gmail.com) with any questions. Additional work samples are available upon request.
 
