@@ -2,11 +2,10 @@
 layout: default
 ---
 <title>Glenn Ingram Cartography</title>
-
-### [Portfolio](./index.md) | About | [Contact](./contact.md)
- <hr> 
  
 #### About
+
+<hr> 
 
 Glenn Ingram is a cartographer and planner located in Tucson, AZ.
 
