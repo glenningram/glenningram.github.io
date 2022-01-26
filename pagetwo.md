@@ -38,5 +38,3 @@ Map of a cycle route through Jordan published in Adventure Cyclist Magazine, as 
 <hr> 
 
 ### [<Previous Page](./index.md)
-
-<hr>
