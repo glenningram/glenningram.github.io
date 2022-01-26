@@ -9,7 +9,7 @@ sidebar:
     link: https://github.com/glenningram/glenningram.github.io
   - name: Twitter
     icon: fa-brands fa-twitter
-    link: https://twitter.com/_glenningram
+    link: <i class="fa fa-twitter" aria-hidden="true"></i>
   - name: LinkedIn
     icon: 
     link: https://www.linkedin.com/in/glenn-ingram/
