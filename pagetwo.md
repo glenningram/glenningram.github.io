@@ -4,10 +4,9 @@ layout: default
 
 <title>Glenn Ingram Cartography</title>
 
-### [Portfolio](./index.md) | [About](./about.md) | [Contact](./contact.md)
+#### Cartography, GIS, Urban & Enviornmental Planning Portfolio
 
 <hr> 
-#### Cartography, GIS, Urban & Enviornmental Planning Portfolio
 
 ## Lubrecht Forest and Bandy Ranch
 
