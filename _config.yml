@@ -6,10 +6,9 @@ sidebar:
     icon: 
     link: mailto:gi.ingram001@gmail.com
   - name: GitHub
-    icon: 
     link: https://github.com/glenningram/glenningram.github.io
   - name: Twitter
-    icon: 
+    icon: fa-brands fa-twitter
     link: https://twitter.com/_glenningram
   - name: LinkedIn
     icon: 
