@@ -8,10 +8,10 @@ layout: default
  
 #### Contact
 
-Please reach out over [email](mailto:gi.ingram001@gmail.com) for any questions, additional work samples, or cartography commission work.
+Please reach out over [email](mailto:gi.ingram001@gmail.com) with any questions. Additional work samples are available upon request.
 
+Available for freelance and commission cartography work.
 
-<br>
 <br>
 <br>
 <br>
