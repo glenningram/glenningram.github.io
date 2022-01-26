@@ -3,15 +3,16 @@ logo: /assets/img/logo.png
 description: Cartography, GIS, & Planning Portfolio
 sidebar:
   - name: Email
-    icon: 
+    icon: fa fa-envelope
     link: mailto:gi.ingram001@gmail.com
   - name: GitHub
+    icon: fa fa-github-alt
     link: https://github.com/glenningram/glenningram.github.io
   - name: Twitter
     icon: fa fa-twitter
     link: https://twitter.com/_glenningram
   - name: LinkedIn
-    icon: 
+    icon: fa fa-linkedin
     link: https://www.linkedin.com/in/glenn-ingram/
 theme: jekyll-theme-minimal
 
