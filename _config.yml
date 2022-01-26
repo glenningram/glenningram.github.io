@@ -8,7 +8,7 @@ sidebar:
   - name: GitHub
     link: https://github.com/glenningram/glenningram.github.io
   - name: Twitter
-    icon: <i class="fa fa-twitter" aria-hidden="true"></i>
+    icon: <li><a href="{{ site.baseurl }}/index.html"><i class='fa fa-home'></i> Home</a></li>
     link: https://twitter.com/_glenningram
   - name: LinkedIn
     icon: 
