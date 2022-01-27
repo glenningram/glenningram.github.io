@@ -16,7 +16,7 @@ Better map design allows for more precise communication of data and greater acce
 This map won the 2021 Arizona Geographic Council Maps & Poster competition.
 
 
-![NYC](https://glenningram.github.io/assets/img/Ingram_NYCFloodMap.jpg)
+[![NYC](https://glenningram.github.io/assets/img/Ingram_NYCFloodMap.jpg)](https://glenningram.github.io/assets/img/Ingram_NYCFloodMap.jpg)
 #### New York City 100-Year Floodplain, 2021
 
  <hr> 
@@ -40,12 +40,12 @@ This environmental modeling project used AZ NAIP LiDAR Data to create a three-di
 
 The workflow started with .laz files,  converted them to .las format, created a raster, then normalized pixel values for use within Blender. Within Blender, the pixel values were used to create a 3D mesh and a hillshade, using texture and displacement tools. 
 
-![MuseumFire3D](https://glenningram.github.io/assets/img/3DFlagstaffMap.jpg)
+[![MuseumFire3D](https://glenningram.github.io/assets/img/3DFlagstaffMap.jpg)](https://glenningram.github.io/assets/img/3DFlagstaffMap.jpg)
 #### Museum Fire and Flood, 3D Map, 2021
 
 A number of different map elements related to the events were combined into a single poster - including the 3D map, topo map, and fire and flood maps.
 
-![MuseumFirePoster](https://glenningram.github.io/assets/img/MuseumFloodAndFire.jpg)
+[![MuseumFirePoster](https://glenningram.github.io/assets/img/MuseumFloodAndFire.jpg)](https://glenningram.github.io/assets/img/MuseumFloodAndFire.jpg)
 #### Museum Fire and Flood, Poster Map, 2021
  <hr> 
 
@@ -55,12 +55,12 @@ These maps captured historical natural disasters by exploring the intersection o
 
 The first, a Tohoku Earthquake map, looks at the extent of the 2011 earthquake in Japan and cities at risk.
 
-![Tohoku](https://glenningram.github.io/assets/img/TohokuEarthquake.jpg)
+[![Tohoku](https://glenningram.github.io/assets/img/TohokuEarthquake.jpg)](https://glenningram.github.io/assets/img/TohokuEarthquake.jpg)
 #### Tohoku Earthquake, 2021
 
 The second map looks at the extent of the 1988 Yellowstone Fires in Wyoming. The 88' Yellowstone Fires are significant in their impact on fire science and ecology and their influence on the public's perception of wildfires.
 
-![YellowstoneFires](https://glenningram.github.io/assets/img/1988YellowstoneFires.jpg)
+[![YellowstoneFires](https://glenningram.github.io/assets/img/1988YellowstoneFires.jpg)](https://glenningram.github.io/assets/img/1988YellowstoneFires.jpg)
 #### 1988 Yellowstone Fires, 2021
 
 <hr> 
