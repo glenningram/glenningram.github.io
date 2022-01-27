@@ -3,7 +3,7 @@ layout: default
 ---
 <title>Glenn Ingram Cartography</title>
 
-#### Cartography, GIS, Urban & Enviornmental Planning Portfolio
+#### Cartography, GIS, Urban & Environmental Planning Portfolio
 
 <hr> 
 
