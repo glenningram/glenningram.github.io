@@ -34,7 +34,7 @@ The map shaded relief was created in Blender 3D, hexagons in ArcGIS Pro, and des
  <hr> 
  
  
-## Museum Fire and Flood Mapping and Modeling
+## Museum Fire and Flood Modeling
 
 This environmental modeling project used AZ NAIP LiDAR Data to create a three-dimensional mesh and model within Blender. The Flagstaff Museum fire and flood were ideal for utilizing 3D mapping due to the two related events being driven by elevation and topography. 
 
