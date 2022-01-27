@@ -28,7 +28,7 @@ This map, commissioned by Eric Kennedy of York University, utilizes the entirety
 
 The map shaded relief was created in Blender 3D, hexagons in ArcGIS Pro, and designed in Adobe Illustrator. Data from Candian National Fire Database.
 
-![Canada](https://glenningram.github.io/assets/img/Ingram_CanadaWildfire.jpg)
+[![Canada](https://glenningram.github.io/assets/img/Ingram_CanadaWildfire.jpg)](https://glenningram.github.io/assets/img/Ingram_CanadaWildfire.jpg
 #### Seventy Years of Canadian Wildfire, 2022
 
  <hr> 
