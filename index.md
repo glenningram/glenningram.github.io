@@ -17,7 +17,7 @@ This map won the 2021 Arizona Geographic Council Maps & Poster competition.
 
 
 [![NYC](https://glenningram.github.io/assets/img/Ingram_NYCFloodMap.jpg)](https://glenningram.github.io/assets/img/Ingram_NYCFloodMap.jpg)
-#### New York City 100-Year Floodplain, 2021
+> New York City 100-Year Floodplain, 2021
 
  <hr> 
 
@@ -29,7 +29,7 @@ This map, commissioned by Eric Kennedy of York University, utilizes the entirety
 The map shaded relief was created in Blender 3D, hexagons in ArcGIS Pro, and designed in Adobe Illustrator. Data from Candian National Fire Database.
 
 [![Canada](https://glenningram.github.io/assets/img/Ingram_CanadaWildfire.jpg)](https://glenningram.github.io/assets/img/Ingram_CanadaWildfire.jpg)
-#### Seventy Years of Canadian Wildfire, 2022
+> Seventy Years of Canadian Wildfire, 2022
 
  <hr> 
  
@@ -46,7 +46,7 @@ The workflow started with .laz files,  converted them to .las format, created a 
 A number of different map elements related to the events were combined into a single poster - including the 3D map, topo map, and fire and flood maps.
 
 [![MuseumFirePoster](https://glenningram.github.io/assets/img/MuseumFloodAndFire.jpg)](https://glenningram.github.io/assets/img/MuseumFloodAndFire.jpg)
-#### Museum Fire and Flood, Poster Map, 2021
+> Museum Fire and Flood, Poster Map, 2021
  <hr> 
 
 ## Mapping Historic Natural Disasters
@@ -56,12 +56,12 @@ These maps captured historical natural disasters by exploring the intersection o
 The first, a Tohoku Earthquake map, looks at the extent of the 2011 earthquake in Japan and cities at risk.
 
 [![Tohoku](https://glenningram.github.io/assets/img/TohokuEarthquake.jpg)](https://glenningram.github.io/assets/img/TohokuEarthquake.jpg)
-#### Tohoku Earthquake, 2021
+> Tohoku Earthquake, 2021
 
 The second map looks at the extent of the 1988 Yellowstone Fires in Wyoming. The 88' Yellowstone Fires are significant in their impact on fire science and ecology and their influence on the public's perception of wildfires.
 
 [![YellowstoneFires](https://glenningram.github.io/assets/img/1988YellowstoneFires.jpg)](https://glenningram.github.io/assets/img/1988YellowstoneFires.jpg)
-#### 1988 Yellowstone Fires, 2021
+> 1988 Yellowstone Fires, 2021
 
 <hr> 
 
