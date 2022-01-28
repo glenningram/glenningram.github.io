@@ -66,5 +66,3 @@ The second map looks at the extent of the 1988 Yellowstone Fires in Wyoming. The
 <hr> 
 
 #### [Next Page >](./two.md)
-
-<p class="text-right">Right aligned text.</p>
