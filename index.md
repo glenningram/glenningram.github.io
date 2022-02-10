@@ -16,7 +16,7 @@ Better map design allows for more precise communication of data and greater acce
 This map won the 2021 Arizona Geographic Council Maps & Poster competition.
 
 
-[![NYC](https://glenningram.github.io/assets/img/large/Ingram_NYCFlood.jpg)](https://glenningram.github.io/assets/img/small/Ingram_NYCFlood.jpg)
+[![NYC](https://glenningram.github.io/assets/img/small/Ingram_NYCFlood.jpg)](https://glenningram.github.io/assets/img/large/Ingram_NYCFlood.jpg)
 > New York City 100-Year Floodplain, 2021
 
  <hr> 
