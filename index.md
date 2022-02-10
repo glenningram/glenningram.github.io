@@ -28,7 +28,7 @@ Commissioned by Eric Kennedy of York University, this map utilizes the entirety 
 
 The map shaded relief was created in Blender 3D, hexagons in ArcGIS Pro, and designed in Adobe Illustrator. Data from Candian National Fire Database.
 
-[![Canada](https://glenningram.github.io/assets/img/Ingram_CanadaWildfire.jpg)](https://glenningram.github.io/assets/img/Ingram_CanadaWildfire.jpg)
+[![Canada](https://glenningram.github.io/assets/img/small/Ingram_CanadaWildfire.jpg)](https://glenningram.github.io/assets/img/large/Ingram_CanadaWildfire.jpg)
 > Seventy Years of Canadian Wildfire, 2022
 
  <hr> 
@@ -40,12 +40,12 @@ This environmental modeling project used AZ NAIP LiDAR Data to create a three-di
 
 This workflow started with .laz files,  converted them to a raster, then normalized pixel values for use within Blender. In Blender, the pixel values were used to create a 3D mesh and a hillshade, using texture and displacement tools. 
 
-[![MuseumFire3D](https://glenningram.github.io/assets/img/3DFlagstaffMap.jpg)](https://glenningram.github.io/assets/img/Ingram_3DFlagstaff.jpg)
+[![MuseumFire3D](https://glenningram.github.io/assets/img/small/Ingram_3DFlagstaff.jpg)](https://glenningram.github.io/assets/img/large/Ingram_3DFlagstaff.jpg)
 > Museum Fire and Flood, 3D Map, 2021
 
 A number of different map elements related to the events were combined into a single poster - including the 3D map, topo map, and fire and flood maps.
 
-[![MuseumFirePoster](https://glenningram.github.io/assets/img/MuseumFloodAndFire.jpg)](https://glenningram.github.io/assets/img/MuseumFloodAndFire.jpg)
+[![MuseumFirePoster](https://glenningram.github.io/assets/img/small/Ingram_MuseumFloodFire.jpg)](https://glenningram.github.io/assets/img/large/MuseumFloodFire.jpg)
 > Museum Fire and Flood, Poster Map, 2021
  <hr> 
 
@@ -55,12 +55,12 @@ These maps captured historical natural disasters by exploring the intersection o
 
 The first, a Tohoku Earthquake map, looks at the extent of the 2011 earthquake in Japan and cities at risk.
 
-[![Tohoku](https://glenningram.github.io/assets/img/TohokuEarthquake.jpg)](https://glenningram.github.io/assets/img/TohokuEarthquake.jpg)
+[![Tohoku](https://glenningram.github.io/assets/img/small/Ingram_TohokuEarthquake.jpg)](https://glenningram.github.io/assets/img/large/Ingram_TohokuEarthquake.jpg)
 > Tohoku Earthquake, 2021
 
 The second map looks at the extent of the 1988 Yellowstone Fires in Wyoming. The 88' Yellowstone Fires are significant in their impact on fire science and ecology and their influence on the public's perception of wildfires.
 
-[![YellowstoneFires](https://glenningram.github.io/assets/img/1988YellowstoneFires.jpg)](https://glenningram.github.io/assets/img/1988YellowstoneFires.jpg)
+[![YellowstoneFires](https://glenningram.github.io/assets/img/small/Ingram_1988Yellowstone.jpg)](https://glenningram.github.io/assets/img/large/1988Yellowstone.jpg)
 > 1988 Yellowstone Fires, 2021
 
 <hr> 
