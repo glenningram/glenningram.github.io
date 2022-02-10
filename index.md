@@ -60,7 +60,7 @@ The first, a Tohoku Earthquake map, looks at the extent of the 2011 earthquake i
 
 The second map looks at the extent of the 1988 Yellowstone Fires in Wyoming. The 88' Yellowstone Fires are significant in their impact on fire science and ecology and their influence on the public's perception of wildfires.
 
-[![YellowstoneFires](https://glenningram.github.io/assets/img/small/Ingram_1988Yellowstone.jpg)](https://glenningram.github.io/assets/img/large/1988Yellowstone.jpg)
+[![YellowstoneFires](https://glenningram.github.io/assets/img/small/Ingram_1988Yellowstone.jpg)](https://glenningram.github.io/assets/img/large/Ingram_1988Yellowstone.jpg)
 > 1988 Yellowstone Fires, 2021
 
 <hr> 
