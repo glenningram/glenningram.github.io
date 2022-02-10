@@ -45,7 +45,7 @@ This workflow started with .laz files,  converted them to a raster, then normali
 
 A number of different map elements related to the events were combined into a single poster - including the 3D map, topo map, and fire and flood maps.
 
-[![MuseumFirePoster](https://glenningram.github.io/assets/img/small/Ingram_MuseumFloodFire.jpg)](https://glenningram.github.io/assets/img/large/MuseumFloodFire.jpg)
+[![MuseumFirePoster](https://glenningram.github.io/assets/img/small/Ingram_MuseumFloodFire.jpg)](https://glenningram.github.io/assets/img/large/Ingram_MuseumFloodFire.jpg)
 > Museum Fire and Flood, Poster Map, 2021
  <hr> 
 
