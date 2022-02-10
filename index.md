@@ -40,7 +40,7 @@ This environmental modeling project used AZ NAIP LiDAR Data to create a three-di
 
 This workflow started with .laz files,  converted them to a raster, then normalized pixel values for use within Blender. In Blender, the pixel values were used to create a 3D mesh and a hillshade, using texture and displacement tools. 
 
-[![MuseumFire3D](https://glenningram.github.io/assets/img/3DFlagstaffMap.jpg)](https://glenningram.github.io/assets/img/3DFlagstaffMap.jpg)
+[![MuseumFire3D](https://glenningram.github.io/assets/img/3DFlagstaffMap.jpg)](https://glenningram.github.io/assets/img/Ingram_3DFlagstaff.jpg)
 > Museum Fire and Flood, 3D Map, 2021
 
 A number of different map elements related to the events were combined into a single poster - including the 3D map, topo map, and fire and flood maps.
