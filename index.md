@@ -26,7 +26,7 @@ This map won the 2021 Arizona Geographic Council Maps & Poster competition.
 
 Commissioned by Eric Kennedy of York University, this map utilizes the entirety of the Candian National Fire Database fire point dataset. The map uses a hexagonal pattern to illustrate fire frequency for Canada, spanning from 1950 to 2020. Each hexagon, representing 500sq kilometers, counts the number of fires that fell within the shape. The map illustrates how topography, region, and climate are drivers of fire behavior.
 
-The map shaded relief was created in Blender 3D, hexagons in ArcGIS Pro, and designed in Adobe Illustrator. Data from Candian National Fire Database.
+The map shaded relief was created in Blender 3D, hexagons in ArcGIS Pro, and designed in Adobe Illustrator. Data from Canadian National Fire Database.
 
 [![Canada](https://glenningram.github.io/assets/img/small/Ingram_CanadaWildfire.jpg)](https://glenningram.github.io/assets/img/large/Ingram_CanadaWildfire.jpg)
 > Seventy Years of Canadian Wildfire, 2022
